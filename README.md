@@ -27,6 +27,10 @@ Um jogo de perguntas e respostas baseado no jogo Trivia (tipo um show do milhão
 * React
 * Redux
 
+## Deploy
+[Projeto Trivia React Redux](https://project-trivia-react-redux-sigma.vercel.app/)
+
+
 ## Executando a aplicação
 
 1. Clone o repositório
